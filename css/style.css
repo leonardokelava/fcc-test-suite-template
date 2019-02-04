@@ -6,6 +6,11 @@
   position: fixed;
   top: 0;
 }
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
 #link {
   display: flex;
   flex-direction: row;
