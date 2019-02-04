@@ -1,6 +1,11 @@
-/* #header {
-  background-color: #ccc;
-} */
+#page {
+  position: relative;
+}
+#header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
 #link {
   display: flex;
   flex-direction: row;
